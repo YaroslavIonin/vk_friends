@@ -1,0 +1,6 @@
+.idea
+env/
+api_friends/db.sqlite3
+api_friends/api/migrations
+api_friends/api/__pycache__
+api_friends/config/__pycache__
